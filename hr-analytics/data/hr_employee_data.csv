@@ -1,0 +1,16 @@
+EmployeeID,Department,JobRole,Region,Age,MonthlyIncome,YearsAtCompany,Attrition
+E001,IT,Support Engineer,Chennai,26,32000,2,No
+E002,Sales,Sales Executive,Bangalore,29,38000,4,No
+E003,HR,HR Executive,Chennai,31,35000,5,No
+E004,IT,Network Engineer,Hyderabad,28,42000,3,No
+E005,Sales,Sales Executive,Chennai,24,28000,1,Yes
+E006,Finance,Accountant,Bangalore,35,50000,8,No
+E007,IT,Support Engineer,Bangalore,27,30000,2,Yes
+E008,HR,Recruiter,Hyderabad,30,36000,4,No
+E009,Sales,Sales Manager,Chennai,38,62000,10,No
+E010,Finance,Accountant,Chennai,33,47000,6,No
+E011,IT,Network Engineer,Hyderabad,32,45000,7,No
+E012,Sales,Sales Executive,Bangalore,25,29000,2,Yes
+E013,HR,HR Executive,Bangalore,29,34000,3,No
+E014,Finance,Finance Analyst,Hyderabad,36,52000,9,No
+E015,IT,Support Engineer,Chennai,27,31000,3,No
